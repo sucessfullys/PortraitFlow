@@ -1,6 +1,6 @@
 # PortraitFlow-RL: Enhancing the Naturalness and Realism of Portrait Generation through a Two-Stage SFT+RL Paradigm Based on Flux 2
 <div align="center">
-  <img src="dataset/图片2.png" width="70%" alt="PortraitFlow-RL Overview"/> 
+  <img src="dataset/图片2.png" width="90%" alt="PortraitFlow-RL Overview"/> 
 </div>
 
 PortraitFlow-RL is a Flux 2-based portrait generation enhancement framework. It adopts a two-stage training paradigm, where supervised fine-tuning (SFT) is first used to improve instruction following and portrait-specific generation quality, followed by reinforcement learning (RL) to further align the model with human preferences for naturalness, realism, and visual fidelity.
