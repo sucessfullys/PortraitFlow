@@ -5,4 +5,9 @@
 
 PortraitFlow-RL is a Flux 2-based portrait generation enhancement framework. It adopts a two-stage training paradigm, where supervised fine-tuning (SFT) is first used to improve instruction following and portrait-specific generation quality, followed by reinforcement learning (RL) to further align the model with human preferences for naturalness, realism, and visual fidelity.
 
-This project is built upon and inspired by several excellent open-source works. We gratefully acknowledge the contributions of DiffusionNFT, DGPO, and flow_grpo.
+## 💗 Acknowledgement <a name="acknowledgement"></a> 
+We would like to express our sincere gratitude to the following open-source projects:
+- [Flux2](https://github.com/black-forest-labs/flux2)
+- [Flow-GRPO](https://github.com/yifan123/flow_grpo)
+- [DGPO](https://github.com/Luo-Yihong/DGPO)
+
